@@ -1,7 +1,7 @@
 {
     "tokens": [
         {
-          "ID" : "0"
+          "ID" : "0",
           "title": "HumanplusNFTStudy",
           "type": "object",
           "properties": {
@@ -17,14 +17,14 @@
             }   
         },
         {
-          "ID" : "1"
+          "ID" : "1",
           "title": "HumanplusNFTStudy",
           "name": "NFT example1",
           "description": "donidena",
           "image":  "ipfs://QmQtejcDkRzEyziH17mK2Dr7s9KK8KXMg4PQA8fKgyhtkT/"               
         },
         {
-          "ID" : "2"
+          "ID" : "2",
           "title": "HumanplusNFTStudy",
           "type": "object",
           "properties": {
