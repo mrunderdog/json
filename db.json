@@ -19,18 +19,9 @@
         {
           "ID" : "1"
           "title": "HumanplusNFTStudy",
-          "type": "object",
-          "properties": {
-            "name": {
-                "type": "string",
-                "description": "NFT example1"
-                },
-            "description": {
-                "type": "string",
-                "description": "donidena"
-                },
-            "image":  "ipfs://QmQtejcDkRzEyziH17mK2Dr7s9KK8KXMg4PQA8fKgyhtkT/"   
-            }   
+          "name": "NFT example1",
+          "description": "donidena",
+          "image":  "ipfs://QmQtejcDkRzEyziH17mK2Dr7s9KK8KXMg4PQA8fKgyhtkT/"               
         },
         {
           "ID" : "2"
