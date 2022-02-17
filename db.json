@@ -13,9 +13,7 @@
                 "type": "string",
                 "description": "don don don"
                 },
-            "image": {
-            "type": "string",
-            "description": "ipfs://QmQtejcDkRzEyziH17mK2Dr7s9KK8KXMg4PQA8fKgyhtkT/"    }
+            "image": "ipfs://QmQtejcDkRzEyziH17mK2Dr7s9KK8KXMg4PQA8fKgyhtkT/"  
             }   
         },
         {
@@ -31,9 +29,7 @@
                 "type": "string",
                 "description": "donidena"
                 },
-            "image": {
-            "type": "string",
-            "description": "ipfs://QmQtejcDkRzEyziH17mK2Dr7s9KK8KXMg4PQA8fKgyhtkT/"    }
+            "image":  "ipfs://QmQtejcDkRzEyziH17mK2Dr7s9KK8KXMg4PQA8fKgyhtkT/"   
             }   
         },
         {
