@@ -15,6 +15,6 @@
         "image": {
             "type": "string",
             "description": "ipfs://QmQtejcDkRzEyziH17mK2Dr7s9KK8KXMg4PQA8fKgyhtkT/"    }
-        }	
+        }
     ]
 }
