@@ -1,7 +1,7 @@
 {
     "tokens": [
         {
-          "ID" : "0",
+          "id" : "0",
           "name": "NFT sample1",
           "description": "jolup wantyou",
           "image": "https://ipfs.io/ipfs/QmeuVrJ9PbTdXBYQRTgS3Ru3BMsmBV167HXK1cYUAE6EsY/",  
@@ -28,7 +28,7 @@
 		  
         },
         {
-          "ID" : "1",
+          "id" : "1",
           "name": "NFT sample 2",
           "description": "donidena",
           "image":  "https://ipfs.io/ipfs/QmeuVrJ9PbTdXBYQRTgS3Ru3BMsmBV167HXK1cYUAE6EsY/",  
@@ -55,7 +55,7 @@
 					  
         },
         {
-          "ID" : "2",
+          "id" : "2",
           "name": "NFT Zirong",
           "description": "donjuseyo",
           "image": "https://ipfs.io/ipfs/QmeuVrJ9PbTdXBYQRTgS3Ru3BMsmBV167HXK1cYUAE6EsY/",   
