@@ -1,80 +1,26 @@
 {
     "tokens": [
-        {
-          "id" : 0,
-          "name": "NFT sample1",
-          "description": "jolup wantyou",
-          "image": "https://ipfs.io/ipfs/QmeuVrJ9PbTdXBYQRTgS3Ru3BMsmBV167HXK1cYUAE6EsY/",  
-          "external_uri": "https://hupayx.io",	
-          "attributes": [
-			{
-			"trait_type": "base",
-			"value": "road"
-			},
-			{
-			"trait_type": "status",
-			"value": "angry"
-			},
-			{
-			"trait_type": "finance",
-			"value": "poor"
-			},
-			{
-			"trait_type": "grade",
-			"value": "normal"
-			}
-			]
-		  
-        },
-        {
-          "id" : 1,
-          "name": "NFT sample 2",
-          "description": "donidena",
-          "image":  "https://ipfs.io/ipfs/QmeuVrJ9PbTdXBYQRTgS3Ru3BMsmBV167HXK1cYUAE6EsY/",  
-          "external_uri": "https://hupayx.io",	
-          "attributes": [
-			{
-			"trait_type": "base",
-			"value": "land"
-			},
-			{
-			"trait_type": "status",
-			"value": "starving"
-			},
-			{
-			"trait_type": "finance",
-			"value": "rich"
-			},
-			{
-			"trait_type": "grade",
-			"value": "rare"
-			}
-			]
-        },
-        {
-          "id" : 2,
-          "name": "NFT Zirong",
-          "description": "donjuseyo",
-          "image": "https://ipfs.io/ipfs/QmeuVrJ9PbTdXBYQRTgS3Ru3BMsmBV167HXK1cYUAE6EsY/",   
-          "external_uri": "https://hupayx.io",	
-          "attributes": [
-			{
-			"trait_type": "base",
-			"value": "sky"
-			},
-			{
-			"trait_type": "status",
-			"value": "mad"
-			},
-			{
-			"trait_type": "finance",
-			"value": "soso"
-			},
-			{
-			"trait_type": "grade",
-			"value": "legend"
-			}
-			]	               
-        }
+	    {
+    "id": 0,
+    "description": "jolup wantyou",
+    "external_url": "https://hupayx.io",
+    "image": "https://ipfs.io/ipfs/QmeuVrJ9PbTdXBYQRTgS3Ru3BMsmBV167HXK1cYUAE6EsY/",
+    "name": "NFT sample1"
+  },
+  {
+    "id": 1,
+    "description": "mandreojawra",
+    "external_url": "https://hupayx.io",
+    "image": "https://ipfs.io/ipfs/QmeuVrJ9PbTdXBYQRTgS3Ru3BMsmBV167HXK1cYUAE6EsY/",
+    "name": "NFT sample2"
+  },
+  {
+    "id": 2,
+    "description": "mogamoonjaenya",
+    "external_url": "https://hupayx.io",
+    "image": "https://ipfs.io/ipfs/QmeuVrJ9PbTdXBYQRTgS3Ru3BMsmBV167HXK1cYUAE6EsY/",
+    "name": "NFT sample3"
+  }
+       
     ]
 }
