@@ -2,44 +2,84 @@
     "tokens": [
         {
           "ID" : "0",
-          "title": "HumanplusNFTStudy",
-          "type": "object",
-          "properties": {
-            "name": {
-                "type": "string",
-                "description": "NFT example"
-                },
-            "description": {
-                "type": "string",
-                "description": "don don don"
-                },
-            "image": "ipfs://QmQtejcDkRzEyziH17mK2Dr7s9KK8KXMg4PQA8fKgyhtkT/"  
-            }   
+          "name": "NFT sample1",
+          "description": "jolup wantyou",
+          "image": "https://ipfs.io/ipfs/QmeuVrJ9PbTdXBYQRTgS3Ru3BMsmBV167HXK1cYUAE6EsY/",  
+          "external_uri": "https://hupayx.io",	
+          
+          "attributes": [
+			{
+			"trait_type": "base",
+			"value": "road"
+			},
+			{
+			"trait_type": "status",
+			"value": "angry"
+			},
+			{
+			"trait_type": "finance",
+			"value": "poor"
+			},
+			{
+			"trait_type": "grade",
+			"value": "normal"
+			}
+			]
+		  
         },
         {
           "ID" : "1",
-          "title": "HumanplusNFTStudy",
-          "name": "NFT example1",
+          "name": "NFT sample 2",
           "description": "donidena",
-          "image":  "ipfs://QmQtejcDkRzEyziH17mK2Dr7s9KK8KXMg4PQA8fKgyhtkT/"               
+          "image":  "https://ipfs.io/ipfs/QmeuVrJ9PbTdXBYQRTgS3Ru3BMsmBV167HXK1cYUAE6EsY/",  
+          "external_uri": "https://hupayx.io",	
+  
+          "attributes": [
+			{
+			"trait_type": "base",
+			"value": "land"
+			},
+			{
+			"trait_type": "status",
+			"value": "starving"
+			},
+			{
+			"trait_type": "finance",
+			"value": "rich"
+			},
+			{
+			"trait_type": "grade",
+			"value": "rare"
+			}
+			]
+					  
         },
         {
           "ID" : "2",
-          "title": "HumanplusNFTStudy",
-          "type": "object",
-          "properties": {
-            "name": {
-                "type": "string",
-                "description": "NFT example3"
-                },
-            "description": {
-                "type": "string",
-                "description": "donjuseyo"
-                },
-            "image": {
-            "type": "string",
-            "description": "ipfs://QmQtejcDkRzEyziH17mK2Dr7s9KK8KXMg4PQA8fKgyhtkT/"    }
-            }   
+          "name": "NFT Zirong",
+          "description": "donjuseyo",
+          "image": "https://ipfs.io/ipfs/QmeuVrJ9PbTdXBYQRTgS3Ru3BMsmBV167HXK1cYUAE6EsY/",   
+          "external_uri": "https://hupayx.io",	
+
+          "attributes": [
+			{
+			"trait_type": "base",
+			"value": "sky"
+			},
+			{
+			"trait_type": "status",
+			"value": "mad"
+			},
+			{
+			"trait_type": "finance",
+			"value": "soso"
+			},
+			{
+			"trait_type": "grade",
+			"value": "legend"
+			}
+			]
+			               
         }
     ]
 }
